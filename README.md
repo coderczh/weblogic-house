@@ -6,3 +6,6 @@
 
 ## 技术栈：
 Spring Boot / MyBatis / MySQL / WebMagic
+
+## 进度
+未将爬取到的数据插入到MySQL数据库中。
